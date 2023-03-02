@@ -6,8 +6,8 @@ using System.Threading.Tasks;
 
 namespace ProjectForGit
 {
-    internal class Book
+    internal class BooksStorage
     {
-        ///////subtask1
+        //dsfsdfsfsdfsdf
     }
 }
